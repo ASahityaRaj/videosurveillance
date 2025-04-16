@@ -34,7 +34,7 @@ The core of this system lies in its ability to understand and correlate both the
     * **Prompt Engineering:** Employs a carefully designed prompt to instruct the LLM to extract and present the insights in a structured format:
         * Summary of Events
         * Behavioral Patterns
-        * Alerts & Notifications**
+        * Alerts & Notifications
         * Identifications & Profiles
         * Potential Threat Assessment
     * **LLM Processing:** Passes the retrieved video clip and the user's query to the LLM for processing.
